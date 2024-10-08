@@ -1,0 +1,10 @@
+.carrito {
+  display: flex;
+  margin: 20px;
+  color: rgb(17, 17, 17);
+  top: 10px;
+  right: 10px;
+  width: 50px;
+  height: 40px;
+  cursor: pointer;
+}
